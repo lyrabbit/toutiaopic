@@ -1,0 +1,4 @@
+# toutiaopic
+用scrapy爬取今日头条的全部图片
+注意scrapy.Request请求时头部的伪装
+注意scrapy开启默认的图片下载器的方法
